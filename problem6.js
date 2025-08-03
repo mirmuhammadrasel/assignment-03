@@ -3,6 +3,6 @@ var experience = 30;
 var startingSalary = 45000;
 //write your code here
 
-var selary = startingSalary * Math.pow(1.05, experience);
+var salary = startingSalary * Math.pow(1.05, experience);
 
-console.log(selary.toFixed(2));
+console.log(salary.toFixed(2));
