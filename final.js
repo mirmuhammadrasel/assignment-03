@@ -1,6 +1,6 @@
 /** Problem -01 ( Divide the Asset ) */
 var  area = 800;
-//write your code her
+//write your code here
 
 var property = area / 2;
 
@@ -23,7 +23,7 @@ else {
 
 
 /** Problem -03 ( Medicine Planner ) */
-var lastDay = 11 ;
+var lastDay = 27 ;
 //write your code here
 
 for (var day = 1; day <= lastDay; day++) {
